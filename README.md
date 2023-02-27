@@ -1,4 +1,4 @@
-# Multiple Database Connection in Laravel
+# Laravel Image Upload
 
 This projects demostrates how to upload image in Laravel.
 
